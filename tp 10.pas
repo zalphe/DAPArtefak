@@ -6,7 +6,7 @@ type dataBuku = record
   penerbit : string;
   tahun    : integer;
 end;
-
+//coba
 var
   TempArsipBuku, ArsipBuku : file of dataBuku;
   buku        : dataBuku;
